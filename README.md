@@ -5,8 +5,8 @@
 <a href="https://api.whatsapp.com/send?phone=5571997024566&text=Ola, Juan Alan" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Fale Comigo&message=Juan Alan&color=f8efd4&style=for-the-badge&logo=Whatsapp"></a>
 <br>
-<a href="mailto:juan01alan@gmail.com?subject=Olá%20Juan">
-<img src="https://img.shields.io/static/v1?label=Fale Comigo&message=E-MAIL&color=f8efd4&style=for-the-badge&logo=gmail"></a>
+<a href="https://criarmeulink.com.br/u/1659820883">
+<img src="https://img.shields.io/static/v1?label=JUAN01ALAN@GMAIL.COM&message=FALE COMIGO&color=f8efd4&style=for-the-badge&logo=gmail"></a>
 <p>
 
 Eu sou desenvolvedor Front End.
