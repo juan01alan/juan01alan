@@ -5,8 +5,7 @@
 <a href="https://api.whatsapp.com/send?phone=5571997024566&text=Ola, Juan Alan" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Fale Comigo&message=Juan Alan&color=f8efd4&style=for-the-badge&logo=Whatsapp"></a>
 <br>
-<a href="https://criarmeulink.com.br/u/1659820883">
-<img src="https://img.shields.io/static/v1?label=JUAN01ALAN@GMAIL.COM&message=FALE COMIGO&color=f8efd4&style=for-the-badge&logo=gmail"></a>
+<img src="https://img.shields.io/static/v1?label=JUAN01ALAN@GMAIL.COM&message=FALE COMIGO&color=f8efd4&style=for-the-badge&logo=gmail">
 <p>
 
 Eu sou desenvolvedor Front End.
@@ -32,7 +31,7 @@ Eu sou desenvolvedor Front End.
 </a>
 <br>
 
-[instagram]: https://www.instagram.com/me.juanalan/
+[INSTAGRAM]: https://www.instagram.com/me.juanalan/
 
 #### Rede Sociais!
-📷 [instagram][instagram] **|** 
+📷 [INSTAGRAM][instagram] **|** 
