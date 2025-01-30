@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=juan01alan&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-### Juan Alan, 18 anos, front end. Estou estudando a area com foco em HTML, CSS, JS, REACTJS, PHP E VUE.
+### Juan Alan, 21 anos, desenvolvedor. Estou na area com foco em HTML, WEB e Aplicações.
 
 <a href="https://api.whatsapp.com/send?phone=5571997024566&text=Ola, Juan Alan" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Fale Comigo&message=Juan Alan&color=f8efd4&style=for-the-badge&logo=Whatsapp"></a>
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/static/v1?label=JUAN01ALAN@GMAIL.COM&message=FALE COMIGO&color=f8efd4&style=for-the-badge&logo=gmail">
 <p>
 
-Eu sou desenvolvedor Front End.
+Eu sou desenvolvedor Front End e criador de Jogod 3D.
 
 
 </p>
