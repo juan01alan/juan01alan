@@ -1,37 +1,65 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=juan01alan&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=juan01alan&show_icons=true&title_color=00b894&text_color=dfe6e9&icon_color=00cec9&bg_color=0f172a&cache_seconds=2300">
 
-### Juan Alan, 21 anos, desenvolvedor. Estou na area com foco em HTML, WEB e Aplicações.
+# Juan Alan
 
-<a href="https://api.whatsapp.com/send?phone=5571997024566&text=Ola, Juan Alan" target="_blank">
-<img src="https://img.shields.io/static/v1?label=Fale Comigo&message=Juan Alan&color=f8efd4&style=for-the-badge&logo=Whatsapp"></a>
+Desenvolvedor de Software, Games e Sistemas.
+
+Atuo com desenvolvimento web, aplicações desktop/mobile, jogos 2D/3D e sistemas personalizados. Tenho experiência com Unity, C#, JavaScript, React, Node.js, APIs, dashboards administrativos, landing pages e plataformas completas.
+
+Foco em criar projetos modernos, performáticos, escaláveis e visualmente bem construídos.
+
 <br>
-<img src="https://img.shields.io/static/v1?label=JUAN01ALAN@GMAIL.COM&message=FALE COMIGO&color=f8efd4&style=for-the-badge&logo=gmail">
-<p>
 
-Eu sou desenvolvedor Front End e criador de Jogod 3D.
-
-
-</p>
-<hr>
-
-## **Linguagens e Ferramentas:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-<hr>
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan01alan&theme=dark&hide_langs_below=1" />
+<a href="https://api.whatsapp.com/send?phone=5571997024566&text=Olá, Juan Alan" target="_blank">
+<img src="https://img.shields.io/static/v1?label=WhatsApp&message=Fale%20Comigo&color=0f172a&style=for-the-badge&logo=whatsapp">
 </a>
-<br>
 
-[INSTAGRAM]: https://www.instagram.com/me.juanalan/
+<a href="mailto:juan01alan@gmail.com">
+<img src="https://img.shields.io/static/v1?label=Email&message=juan01alan@gmail.com&color=0f172a&style=for-the-badge&logo=gmail">
+</a>
 
-#### Rede Sociais!
-📷 [INSTAGRAM][instagram] **|** 
+---
+
+## Sobre mim
+
+- Desenvolvedor Freelancer
+- Criação de Jogos 2D e 3D
+- Desenvolvimento Web Full Stack
+- Sistemas Administrativos e Dashboards
+- Landing Pages e Funis
+- APIs e Integrações
+- UI/UX e Performance
+- Projetos Desktop e Mobile
+
+---
+
+## Linguagens e Ferramentas
+
+<p>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
+</p>
+
+---
+
+## Estatísticas
+
+<a href="https://github.com/juan01alan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan01alan&theme=tokyonight&hide_border=true&layout=compact" />
+</a>
+
+---
+
+## Redes
+
+[Instagram](https://www.instagram.com/me.juanalan/)
